@@ -2,8 +2,8 @@
 
 **History Indicator** is a simple Chrome extension that visually shows whether the currently open page has been visited before.
 
-- ✅ Green pedestrian icon: This page was visited more than once.
-- ⚠️ Yellow pedestrian icon: This page was either never visited or visited only once.
+- ![visited](icons/green.png) **Green pedestrian icon**: This page was visited more than once.
+- ![not visited](icons/yellow.png) **Yellow pedestrian icon**: This page was either never visited or visited only once.
 
 ## 🧠 Features
 
