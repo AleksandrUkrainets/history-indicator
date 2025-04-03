@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "History Indicator",
+  "version": "1.0",
+  "description": "Показывает, был ли сайт уже посещён ранее",
+  "permissions": ["tabs", "history"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "History Indicator",
+    "default_icon": {
+      "16": "icons/yellow.png",
+      "32": "icons/yellow.png"
+    }
+  },
+  "icons": {
+    "16": "icons/yellow.png",
+    "32": "icons/yellow.png",
+    "48": "icons/yellow.png",
+    "128": "icons/yellow.png"
+  }
+}
