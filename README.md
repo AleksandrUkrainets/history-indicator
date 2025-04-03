@@ -1,3 +1,5 @@
+![visited](animated.gif)
+
 # History Indicator - Chrome Extension
 
 **History Indicator** is a simple Chrome extension that visually shows whether the currently open page has been visited before.
